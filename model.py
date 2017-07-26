@@ -1,5 +1,4 @@
 # Udacity Self-Driving car term 1 project on behavioral neural networks
-# contact ytpub@yahoo.com
 # last edit 7/25/2017
 
 import csv
